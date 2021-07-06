@@ -1,2 +1,2 @@
 # LaTeXStrings-Function-Demo
-Demonstration of the potential of the LaTeXStrings.jl package
+Pluto notebook demonstating the potential of the LaTeXStrings.jl package
